@@ -1,4 +1,4 @@
-Attendance Management System
+<h1>Attendance Management System</h1>
 
 Welcome to the Attendance Management System repository! This project is developed by Abhineeth Babu.
 Overview
