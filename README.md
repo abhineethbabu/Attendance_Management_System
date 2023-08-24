@@ -9,17 +9,17 @@ The Attendance Management System is a Python-based project designed to help mana
     smtplib: Enables sending emails using the Simple Mail Transfer Protocol (SMTP).
     email.message: Helps in creating and formatting email messages.
 
-Features
+<h2>Features</h2>
 
     Attendance Recording: The system allows you to record attendance by marking individuals as present or absent for specific events or days.
 
     Automated Email Notifications: It includes an automated email system that sends absence notifications to individuals who have been marked as absent.
 
-Contribution
+<h2>Contribution</h2>
 
 Contributions to this project are welcome! If you find any issues, have suggestions, or want to add new features, feel free to open issues and pull requests.
 
-Contact
+<h2>Contact</h2>
 
 If you have any questions or need assistance, you can contact me at abhianb1@gmail.com.
 
